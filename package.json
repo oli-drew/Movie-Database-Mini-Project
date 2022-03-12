@@ -1,0 +1,23 @@
+{
+  "name": "movie-database-mini-project",
+  "version": "1.0.0",
+  "description": "Rest API routes for creating, retrieving, and deleting movies from a MySQL database",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oli-drew/Movie-Database-Mini-Project.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oli-drew/Movie-Database-Mini-Project/issues"
+  },
+  "homepage": "https://github.com/oli-drew/Movie-Database-Mini-Project#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
